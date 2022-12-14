@@ -1,0 +1,30 @@
+html{
+			direction: ltr;
+		}
+		.title{ text-align: left;
+			    background: blueviolet;
+				color: white;
+				border: 2px solid #d60000;
+				}
+		.img1{  margin-left: 41%;
+
+				}
+		.a1{
+			font-size: 25px;
+			color: blueviolet;
+		}
+		.facebook{
+			display: inline-flex;
+			align-items: center;
+			margin-left: 32%;
+		}
+		.a2{
+			font-size: 25px;
+			color: blueviolet;
+		}
+
+		.whatsapp{
+			display: inline-flex;
+			align-items: center;
+			margin-left: 32%;
+		}
